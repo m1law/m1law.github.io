@@ -1,2 +1,2 @@
 # My Personal Website
-[mlaw2.github.io](https://mlaw2.github.io)
+[m1law.github.io](https://m1law.github.io)
